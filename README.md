@@ -767,12 +767,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Ant Colony Research Community** - For groundbreaking metaheuristic algorithms
@@ -789,7 +783,7 @@ For questions, issues, or suggestions:
 
 - **Email**: retajashraf512@gmail.com
 - **GitHub Issues**: [Create an issue](https://github.com/Retaj512/Salesman-Problem-ACO-/issues)
-- **Project Path**: `MY PROJECTS/My Python/Smart System project/ant-colony-visualizer`
+- **Project Path**: `https://github.com/Retaj512/Salesman-Problem-ACO-`
 
 ---
 
