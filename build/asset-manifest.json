@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ant-colony-visualizer/static/css/main.e6c13ad2.css",
+    "main.js": "/ant-colony-visualizer/static/js/main.92cc741c.js",
+    "static/js/453.3f0b00e4.chunk.js": "/ant-colony-visualizer/static/js/453.3f0b00e4.chunk.js",
+    "index.html": "/ant-colony-visualizer/index.html",
+    "main.e6c13ad2.css.map": "/ant-colony-visualizer/static/css/main.e6c13ad2.css.map",
+    "main.92cc741c.js.map": "/ant-colony-visualizer/static/js/main.92cc741c.js.map",
+    "453.3f0b00e4.chunk.js.map": "/ant-colony-visualizer/static/js/453.3f0b00e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.92cc741c.js"
+  ]
+}
